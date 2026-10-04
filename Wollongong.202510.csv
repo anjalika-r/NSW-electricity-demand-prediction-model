@@ -1,0 +1,40 @@
+"Daily Weather Observations for Wollongong, New South Wales for October 2025"
+"Prepared at 13:00 UTC on Friday 11 September 2026   IDCJDW2146.202510"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Shellharbour Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2025-10-1,18.5,25.4,0,,,NNW,63,00:05,22.3,32,,W,24,1006.8,25.0,24,,W,30,1006.0
+,2025-10-2,12.0,24.9,0,,,W,83,20:39,20.0,47,,NNE,26,1006.8,19.1,35,8,SSE,37,1007.9
+,2025-10-3,13.9,24.5,0,,,W,54,00:05,18.1,38,,SW,30,1015.8,23.7,30,,SW,26,1014.0
+,2025-10-4,13.8,20.8,0,,,SW,26,23:37,19.7,59,,ESE,13,1024.5,19.8,67,,E,13,1022.2
+,2025-10-5,15.5,29.8,0,,,W,41,06:54,19.5,66,,NW,13,1019.2,29.8,23,,SW,19,1013.9
+,2025-10-6,18.6,30.4,0,,,S,59,11:49,22.4,37,3,WNW,15,1010.7,19.6,80,8,SSE,22,1011.4
+,2025-10-7,14.6,20.4,1.2,,,,,,17.5,77,8,S,4,1017.7,19.5,83,3,ENE,39,1012.3
+,2025-10-8,14.0,26.5,0,,,S,98,18:09,19.8,50,,NE,6,1013.0,22.6,74,,ENE,15,1007.8
+,2025-10-9,19.2,28.2,0.4,,,W,91,02:46,23.5,54,2,NNW,17,1009.4,27.5,42,5,WNW,22,1008.7
+,2025-10-10,15.8,30.1,0,,,WSW,46,12:17,21.2,66,1,NE,6,1013.5,29.4,20,,SW,24,1010.4
+,2025-10-11,15.6,29.7,0,,,SSE,52,09:52,23.6,24,,SSW,19,1011.3,29.0,18,,WSW,26,1009.3
+,2025-10-12,16.1,29.1,0,,,W,83,17:54,24.3,32,,ESE,7,1011.5,23.3,37,6,WSW,48,1008.6
+,2025-10-13,13.0,20.1,0.2,,,W,50,01:09,18.7,51,1,ENE,11,1016.0,16.5,63,8,SSE,28,1018.2
+,2025-10-14,12.2,26.1,0,,,ENE,37,10:51,17.5,63,,N,17,1018.9,22.9,57,,NE,17,1015.2
+,2025-10-15,14.0,23.3,0,,,SW,24,23:05,20.1,65,,SE,7,1022.3,22.3,71,,NNE,17,1018.5
+,2025-10-16,15.3,25.4,0,,,NE,39,15:31,20.0,83,,NE,9,1020.2,21.9,83,1,NNE,28,1015.0
+,2025-10-17,18.7,31.7,0,,,SSE,74,15:07,23.7,57,8,NNE,13,1010.9,23.5,70,5,ESE,22,1007.6
+,2025-10-18,13.8,20.9,0.2,,,SSE,39,23:17,18.4,62,,SSE,9,1016.3,20.0,66,1,E,17,1014.9
+,2025-10-19,15.6,24.5,0,,,NNE,57,13:26,19.8,66,,NNW,28,1017.2,21.2,72,,NNE,43,1011.0
+,2025-10-20,18.7,27.1,0,,,SSE,65,19:03,20.2,79,1,NNE,13,1009.9,21.4,80,,N,15,1005.4
+,2025-10-21,17.8,21.6,0,,,S,37,02:02,19.8,69,,E,11,1015.7,18.6,71,7,ENE,17,1013.2
+,2025-10-22,17.5,35.0,0,,,NW,76,14:30,20.3,84,7,N,7,1003.3,22.7,81,,NE,11,995.4
+,2025-10-23,15.3,20.9,0,,,SSW,52,23:16,19.1,53,,ESE,24,1014.4,18.8,62,8,ESE,15,1015.0
+,2025-10-24,15.8,20.5,0,,,SSE,52,11:43,20.0,64,,SE,13,1013.7,18.4,67,4,SSE,35,1013.6
+,2025-10-25,14.0,21.6,0,,,NNE,46,15:18,18.5,65,1,NNE,13,1016.6,20.1,73,7,NE,31,1012.4
+,2025-10-26,16.4,25.8,0,,,W,52,21:13,20.8,52,8,ENE,20,1006.6,19.4,73,8,N,4,1001.1
+,2025-10-27,18.2,24.5,0.8,,,S,76,20:33,21.5,44,1,WSW,22,1001.4,16.6,71,8,SE,54,1006.7
+,2025-10-28,10.3,15.7,2.4,,,SSE,57,23:04,12.2,70,8,S,20,1021.9,15.3,55,8,ESE,13,1020.2
+,2025-10-29,11.7,17.0,14.2,,,NE,43,21:41,13.3,94,8,SW,15,1019.4,15.5,90,8,E,9,1017.2
+,2025-10-30,13.3,20.1,23.0,,,SSE,33,12:21,16.7,90,8,SSE,17,1017.3,19.0,83,1,SE,20,1015.8
+,2025-10-31,14.9,22.7,0,,,NNE,35,19:19,19.4,81,1,SSE,7,1019.1,22.1,73,,NE,22,1016.3

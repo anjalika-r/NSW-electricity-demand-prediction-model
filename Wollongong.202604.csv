@@ -1,0 +1,39 @@
+"Daily Weather Observations for Wollongong, New South Wales for April 2026"
+"Prepared at 13:00 UTC on Saturday 19 September 2026   IDCJDW2146.202604"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Shellharbour Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2026-04-1,19.1,24.6,0,,,NE,43,16:05,21.9,68,,NW,17,1023.9,24.1,71,,NE,33,1021.1
+,2026-04-2,19.5,26.5,0,,,NNE,37,16:29,21.7,73,,NNW,7,1023.8,24.4,71,,NE,26,1021.0
+,2026-04-3,18.8,23.4,0,,,S,48,12:00,21.1,79,,S,15,1022.9,22.2,76,8,SSE,35,1022.9
+,2026-04-4,16.2,20.0,11.4,,,SSW,48,02:30,16.6,91,8,SW,17,1026.9,19.4,73,8,S,33,1025.9
+,2026-04-5,15.1,21.2,24.4,,,SE,44,01:26,17.7,80,8,SW,11,1027.3,19.6,73,8,SE,26,1024.3
+,2026-04-6,14.1,21.9,0.2,,,NW,52,19:57,19.7,70,1,N,6,1020.9,17.4,84,8,N,7,1016.7
+,2026-04-7,17.0,26.6,1.6,,,NE,26,13:50,21.4,62,8,W,13,1011.7,24.8,72,3,NNE,9,1008.8
+,2026-04-8,19.0,24.8,0,,,SSW,31,04:43,22.7,79,8,S,15,1016.1,24.0,74,,E,11,1014.7
+,2026-04-9,18.9,27.2,0,,,NNE,39,15:03,23.4,71,,SSE,6,1016.9,24.5,79,3,NNE,31,1012.5
+,2026-04-10,21.0,30.0,0,,,NW,63,13:04,24.8,52,4,WNW,28,1011.3,28.4,47,1,NNW,26,1007.2
+,2026-04-11,17.0,23.6,0,,,WSW,61,03:08,20.3,41,,WSW,15,1009.4,22.1,31,,WSW,24,1007.0
+,2026-04-12,12.6,20.6,0,,,W,74,07:57,16.5,42,,WSW,28,1009.0,19.6,32,,WSW,26,1009.3
+,2026-04-13,14.3,22.6,0,,,WSW,54,01:03,18.0,49,,SW,17,1017.8,21.6,45,,ENE,13,1016.0
+,2026-04-14,14.4,22.5,0,,,WSW,24,00:06,20.1,41,,SSW,9,1021.0,22.1,44,,ENE,9,1018.3
+,2026-04-15,15.1,23.5,0,,,W,35,04:27,21.3,52,,ESE,7,1018.9,22.2,57,,SE,15,1016.8
+,2026-04-16,16.5,26.9,0,,,NW,37,10:55,21.7,66,,WNW,20,1018.6,23.8,65,,NNE,22,1012.9
+,2026-04-17,17.1,24.5,0,,,S,63,21:49,22.3,41,5,SSW,15,1012.9,22.6,66,8,NE,7,1010.5
+,2026-04-18,10.8,18.9,1.8,,,S,41,14:41,16.2,47,,SSW,19,1019.6,18.4,58,,SSE,30,1017.9
+,2026-04-19,12.9,20.3,0,,,S,39,16:28,16.6,51,,SSW,24,1023.0,19.2,51,,SSE,26,1020.6
+,2026-04-20,14.9,20.9,0,,,S,46,16:44,18.5,65,1,SSW,22,1025.4,20.2,62,,S,35,1024.3
+,2026-04-21,16.1,20.7,0,,,SSE,56,13:33,17.9,68,8,SW,19,1028.5,18.7,72,8,S,28,1026.8
+,2026-04-22,15.6,20.6,0.8,,,SE,44,03:53,17.2,81,8,SSW,15,1028.0,19.5,62,1,SE,24,1026.3
+,2026-04-23,15.6,21.2,0,,,ESE,41,05:34,20.4,56,6,SSW,13,1029.9,20.2,57,8,SE,19,1029.4
+,2026-04-24,15.0,22.4,0,,,ENE,26,00:35,20.7,59,,S,9,1033.2,21.4,58,,ENE,9,1031.0
+,2026-04-25,15.5,23.2,0.8,,,NW,50,23:19,21.2,68,,NNW,11,1031.4,22.8,73,,NNE,22,1026.6
+,2026-04-26,17.6,24.4,0,,,NW,39,10:34,20.3,57,,NNW,24,1026.2,21.8,62,,NE,31,1021.5
+,2026-04-27,16.6,24.9,0,,,NW,33,06:44,21.0,53,,W,9,1024.5,22.5,64,,NNE,20,1023.1
+,2026-04-28,15.4,23.7,0,,,NNE,31,16:02,20.7,53,,NNW,20,1027.4,22.0,58,,NE,22,1024.4
+,2026-04-29,16.7,23.0,0,,,WNW,28,01:57,22.4,57,,WNW,6,1028.9,22.7,64,,ENE,9,1028.2
+,2026-04-30,16.6,22.7,1.8,,,NNE,30,17:26,19.7,83,,S,11,1031.4,22.3,74,,ENE,13,1028.5
