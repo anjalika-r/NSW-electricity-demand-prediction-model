@@ -7,7 +7,7 @@
 "Pressure, cloud, evaporation and sunshine observations are from Sydney Airport AMO {station 066037}"
 "Wind observations are from Fort Denison {station 066022}"
 
-,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,"Date","Minimum temperature (ï¿½C)","Maximum temperature (ï¿½C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (ï¿½C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (ï¿½C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
 ,2025-12-1,15.0,24.6,0,12.6,7.3,NW,65,14:01,20.7,35,7,NW,15,1006.6,22.8,28,8,WNW,30,1002.8
 ,2025-12-2,13.3,22.9,0,9.4,12.4,SSE,48,12:10,17.4,42,1,SW,20,1011.0,22.1,41,2,S,24,1012.7
 ,2025-12-3,14.0,26.3,0,8.8,12.8,NNE,43,16:46,19.4,55,1,W,9,1020.2,25.4,48,1,ENE,26,1016.6
